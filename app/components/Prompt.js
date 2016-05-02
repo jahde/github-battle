@@ -1,4 +1,5 @@
 var React = require('react');
+var PropTypes = React.PropTypes;
 var transparentBg = require('../styles').transparentBg;
 
 // functional stateless components

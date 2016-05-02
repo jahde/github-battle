@@ -1,5 +1,4 @@
 var React = require('react');
-var PropTypes = React.PropTypes;
 var Prompt = require('../components/Prompt');
 
 var PromptContainer = React.createClass({
